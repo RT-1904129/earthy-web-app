@@ -174,7 +174,6 @@
 }
 @media screen and (max-width: 578px) {
     .navbar-top{
-        background-color: red;
         width: 100%;
         height: 15%;
     }

@@ -23,7 +23,8 @@ const LandingPage = () => {
                                 </svg>
                             </h4>
                         </button>
-                    </div>    
+                    </div>  
+                      
                 </div>
                 <div className='background-middle-part'>
                     <div className='description-style'>
